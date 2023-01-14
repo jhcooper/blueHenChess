@@ -1,8 +1,8 @@
 import java.util.Scanner;
 /**
- @author John henry Cooper and Katie Oates
+ @author John henry Cooper
  @version 15.0.2
- provides a text based interface to players of the game
+ Provides a text based interface to players of the game
  has:
  -5 member feilds: fromRow, fromColumn, toRow, toColumn, and action
  that represents aspects of the game and board
