@@ -1,5 +1,5 @@
 /**
- * @author John Henry Cooper and Katie Oates
+ * @author John Henry Cooper
  * @version 15.0.2
  * Contains a constructor for an ActionAttack object as well as an overridden preformAction method that carries out an
  * an attack command
