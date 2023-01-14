@@ -1,5 +1,5 @@
 /**
- * @author John Henry Cooper and Katie Oates
+ * @author John Henry Cooper
  * @version 15.0.2
  * Interface containing all methods required for a piece that can attack
  */
