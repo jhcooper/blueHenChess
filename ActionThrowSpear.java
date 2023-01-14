@@ -1,5 +1,5 @@
 /**
- * @authors John Henry Cooper and Katie Oates
+ * @authors John Henry Cooper
  * @version 15.0.2
  * Contains a constructor for an ActionThrowSpear object as well as an overridden preformAction method that carries out an
  *  * a throwSpear command
