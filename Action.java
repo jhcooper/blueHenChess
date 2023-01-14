@@ -1,5 +1,5 @@
 /**
- * @author John Henry Cooper and Katie Oates
+ * @author John Henry Cooper
  * @version 15.0.2
  * Abstract class for all Actions. Contains a constructor, 2 member fields, and a preformAction field
  */
