@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- @author John henry Cooper
+ @author John Henry Cooper
  @version 15.0.2
  Provides a text based interface to players of the game
  has:
