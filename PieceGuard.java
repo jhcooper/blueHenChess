@@ -1,5 +1,5 @@
 /**
- * @author John Henry Cooper and Katie Oates
+ * @author John Henry Cooper
  * @version 15.0.2
  * Contains All methods and member fields for a PieceGuard object. (getters , setters, constructors, valid action methods, can methods)
  *
