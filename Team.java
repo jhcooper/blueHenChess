@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 /**
- * @author John Henry Cooper and Katie Oates
+ * @author John Henry Cooper
  * @version 15.0.2
  * Includes all methods and properties to construct a Team object.
  * Includes two property fields, an overloaded constructor, accessor and mutator methods,
