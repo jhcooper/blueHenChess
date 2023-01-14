@@ -1,6 +1,6 @@
 /**
  *
- * @author John Henry Cooper and Katie Oates
+ * @author John Henry Cooper
  * @version 15.0.2
  * Parent class for PieceBuzz, PieceEvilMinion, PieceBlueHen, and PieceMinion.
  * Includes all methods and properties to construct a piece object.
