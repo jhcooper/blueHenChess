@@ -1,5 +1,5 @@
 /**
- * @author John Henry Cooper and Katie Oates
+ * @author John Henry Cooper
  * @version 15.0.2
  * Includes all methods and properties to construct a GameBoard object.
  * Includes 3 property fields, an overloaded constructor, accessor and mutator methods,
