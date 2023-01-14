@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 /**
- * @author John Henry Cooper and Katie Oates
+ * @author John Henry Cooper
  * @version 15.0.2
  * Contains all information to Create a game object GameS22 , as well as a method to check if the game is ended
  *  and who won
