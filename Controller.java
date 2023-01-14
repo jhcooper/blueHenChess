@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 
 /**
- * @author John Henry Cooper and Katie Oates
+ * @author John Henry Cooper
  * @version 15.0.2
  * Sets up and plays the game
  * Contains a setUpGameModel method that returns a game object, as well as carryOutAction that creates an action object
