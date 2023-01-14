@@ -1,6 +1,6 @@
 /**
  *
- * @author John Henry Cooper and Katie Oates
+ * @author John Henry Cooper
  * @version 15.0.2
  * An extension of the Piece class.
  * Includes all methods and properties required to assemble a PieceMinion object, Including:
