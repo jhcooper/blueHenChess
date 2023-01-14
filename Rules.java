@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * @author John Henry Cooper and Katie Oates
+ * @author John Henry Cooper
  * @version 15.0.2
  * Contains all rules for if an action is valid or not
  */
